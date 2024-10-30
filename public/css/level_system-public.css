@@ -1,0 +1,22 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .level-system{
+    margin:auto;
+}
+.sr-only{
+	height:auto!important;
+	width:auto!important;
+	color: ivory;
+	position:inherit!important;
+	overflow:visible!important;
+}
+
+.progress{
+	max-width:350px;
+}
+
+.sr-only{
+	display:inline-block;
+}
